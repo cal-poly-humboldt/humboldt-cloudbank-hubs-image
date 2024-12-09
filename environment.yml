@@ -10,5 +10,6 @@ dependencies:
       - otter-grader==5.5.0
       - numpy==1.22.0
       - datascience==0.17.5
+      - xarray
       # Allow users to download their home directories
       - jupyter-tree-download
